@@ -7,6 +7,12 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class Selenium_10 {
 	public static void main(String[] args) {
 
+	
+	
+	
+	
+	
+	
 		 if (args.length == 0) {
 		 System.err.println("No arguments!");
 			System.exit(1);
